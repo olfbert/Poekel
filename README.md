@@ -1,4 +1,6 @@
-german curing calculator.
+german curing calculator for vacuum curing method
+
+//added english translation
 
 https://olfbert.github.io/Poekel/
 
